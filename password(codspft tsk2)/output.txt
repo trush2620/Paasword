@@ -1,0 +1,4 @@
+Enter the desired length of the password: 4
+Generated Password: QMtx
+
+Process finished with exit code 0
